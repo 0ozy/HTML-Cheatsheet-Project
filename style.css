@@ -1,0 +1,56 @@
+body{
+    background-color: rgba(125, 238, 255, 0.7);
+    box-sizing: border-box;
+  }
+  table{
+    border: 5px solid yellow;
+    border-radius: 10px;
+    background-color:lightsalmon;
+    margin: 10px;
+    align-content: center;
+  }
+  
+  
+  h1{
+    font-family: "Teko";
+    text-align: center;
+    font-size: 48px;
+    color: #C03320;
+    letter-spacing: 5px;
+    background-color: aliceblue;
+  }
+  
+  h2{
+    font-family: "Young Serif";
+    text-align: center;
+    color: #FF1493;
+    padding: 5px;
+    background-color: azure;
+    border-radius: 7px;
+    margin:  0 25% 10px 25%;
+  }
+  
+  th, td{
+    border: 3px solid grey;
+    border-radius: 5px;
+    background-color: midnightblue;
+    color: white;
+  }
+  
+  tr{
+    font-family: "Teko";
+     font-size: 14px;
+    font-weight: lighter;
+    
+  }
+
+  th{
+    font-family: monospace, "Space Mono";
+    font-size: 18px;
+    letter-spacing: 2px;
+  }
+
+  .center{
+    margin-left: auto;
+    margin-right: auto;
+  }
